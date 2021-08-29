@@ -12,7 +12,7 @@ All members are expected to follow the [AVE Code of Conduct](https://www.variant
 
 [Meeting minutes](https://docs.google.com/document/d/1dgkLgeK9TCe1XmaSvxhirus0EzzvkM0NDmzLq2mSN3w/edit) and [other workstream documents](https://drive.google.com/drive/folders/1XEm71zcp7EmZ8iob53qfH9KvskrDp2g1) are hosted in the [AVE Alliance Members Google Drive](https://drive.google.com/drive/folders/0AB1IMnWMCvviUk9PVA).
 
-Please visit the [AVE Alliance website](https://www.varianteffect.org/work-streams) for information on other workstreams.
+Please visit the [AVE Alliance website](https://www.varianteffect.org/workstreams) for information on other workstreams.
 
 ### Workstream Lead(s): 
 * Interim contact: [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20ETS%20Workstream)
