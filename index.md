@@ -17,7 +17,7 @@ Please visit the [AVE Alliance website](https://www.varianteffect.org/workstream
 ### Workstream Lead(s): 
 * Victoria Nicole Parikh (co-chair)
 * Melina Claussnitzer (co-chair)
-* 
+ 
 ### Project Manager: 
 * [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20ETS%20Workstream)
 
