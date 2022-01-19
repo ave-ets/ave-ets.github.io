@@ -15,8 +15,18 @@ All members are expected to follow the [AVE Code of Conduct](https://www.variant
 Please visit the [AVE Alliance website](https://www.varianteffect.org/workstreams) for information on other workstreams.
 
 ### Workstream Lead(s): 
-* Interim contact: [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20ETS%20Workstream)
+* Victoria Nicole Parikh (co-chair)
+* Melina Claussnitzer (co-chair)
+* 
+### Project Manager: 
+* [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20ETS%20Workstream)
 
 ### Workstream Members:
-* TBA
+* Prashant Mali (previous co-chair)
+* Fritz Roth (previous co-chair)
+* Benedetta Bolognesi
+* Gary Schroth
+* Greg Findlay
+* Ophir Shalem
+
 
