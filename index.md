@@ -23,8 +23,10 @@ Please visit the [AVE Alliance website](https://www.varianteffect.org/workstream
 * Prashant Mali (previous co-chair)
 * Fritz Roth (previous co-chair)
 * Benedetta Bolognesi
-* Gary Schroth
+* Illumina (Gary Schroth, Jenny Xiao, Feng Chen)
 * Greg Findlay
 * Ophir Shalem
+* Rachel Wilson
+* Daniel Tabet
 
 
