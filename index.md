@@ -20,14 +20,18 @@ Please visit the [AVE Alliance website](https://www.varianteffect.org/workstream
 * [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20ETS%20Workstream)
 
 ### Workstream Members:
-* Prashant Mali (previous co-chair)
 * Fritz Roth (previous co-chair) 
+* Alex Nguyen Ba
+* Michael Boettcher
 * Benedetta Bolognesi
-* Illumina (Gary Schroth, Jenny Xiao, Feng Chen)
+* Andrew Glazer
+* Illumina (Feng Chen)
 * Jacob Kitzman
 * Greg Findlay
-* Ophir Shalem
-* Rachel Wilson
 * Daniel Tabet
 
-
+Previous members
+* Prashant Mali (previous co-chair)
+* Illumina (Gary Schroth, Jenny Xiao)
+* Ophir Shalem
+* Rachel Wilson
