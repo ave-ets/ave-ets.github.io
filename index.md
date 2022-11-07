@@ -8,6 +8,12 @@ The Experimental Technology and Standards (ETS) workstream facilitates the devel
 * Develop an information resource for alternative technologies with protocols, tips, caveats.
 * Design physical standards (mutagenized libraries, barcode libraries, gRNA pools) that can enable controlled comparison of other tech steps, and strategies for sharing physical standards across groups.
 
+ETS is actively working to:
+* Establish a controlled vocabulary for describing variant effect mapping methods
+* Develop strategies to guide others’ experimental design
+* Outline the content of an information resource for alternative technologies with protocols, design principles, controls, tips, caveats
+
+
 All members are expected to follow the [AVE Code of Conduct](https://www.varianteffect.org/code-of-conduct).
 
 Please visit the [AVE Alliance website](https://www.varianteffect.org/workstreams) for information on other workstreams.
