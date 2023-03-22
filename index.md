@@ -26,7 +26,7 @@ Please visit the [AVE Alliance website](https://www.varianteffect.org/workstream
 * [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20ETS%20Workstream)
 
 ### Workstream Members:
-* * Victoria Nicole Parikh (previous co-chair) 
+* Victoria Nicole Parikh (previous co-chair) 
 * Melina Claussnitzer (previous co-chair) 
 * Fritz Roth (previous co-chair) 
 * Alex Nguyen Ba
