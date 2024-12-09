@@ -19,25 +19,11 @@ All members are expected to follow the [AVE Code of Conduct](https://www.variant
 Please visit the [AVE Alliance website](https://www.varianteffect.org/workstreams) for information on other workstreams.
 
 ### Workstream Lead(s): 
-* Benedetta Bolognesi (co-chair) 
+* Alex Ngyuen Ba (co-chair) 
 * Andrew Glazer (co-chair) 
  
 ### Project Manager: 
 * [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20ETS%20Workstream)
 
 ### Workstream Members:
-* Victoria Nicole Parikh (previous co-chair) 
-* Melina Claussnitzer (previous co-chair) 
-* Fritz Roth (previous co-chair) 
-* Alex Nguyen Ba
-* Michael Boettcher
-* Illumina (Feng Chen)
-* Jacob Kitzman
-* Greg Findlay
-* Daniel Tabet
-
-Previous members
-* Prashant Mali (previous co-chair)
-* Illumina (Gary Schroth, Jenny Xiao)
-* Ophir Shalem
-* Rachel Wilson
+Listed on our website (https://www.varianteffect.org/workstreams)
