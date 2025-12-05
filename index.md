@@ -20,7 +20,7 @@ Please visit the [AVE Alliance website](https://www.varianteffect.org/workstream
 
 ### Workstream Lead(s): 
 * Alex Ngyuen Ba (co-chair) 
-* Andrew Glazer (co-chair) 
+* Sven Diederichs (co-chair) 
  
 ### Project Manager: 
 * [Lara Muffley](mailto:muffley@uw.edu?subject=AVE%20ETS%20Workstream)
